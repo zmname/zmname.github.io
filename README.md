@@ -20,7 +20,7 @@
 
 如果你想深入了解 LearnData 的高级技巧，请浏览 [LearnData 博客：高效知识管理和进阶应用技巧](https://newzone.top/posts/2024-01-28-learndata-advanced.html)。
 
-## ✨ 初衷
+## ✨ 初衷333
 
 曾经，我采用了 Notion、Obsidian 和 飞书 等多款知识管理工具来存储我的心得与笔记。然而，这种方式导致我的资料分散，难以管理和分享。
 
